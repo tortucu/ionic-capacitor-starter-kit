@@ -1,0 +1,7 @@
+{
+  "name": "ionic-capacitor-starter-kit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
